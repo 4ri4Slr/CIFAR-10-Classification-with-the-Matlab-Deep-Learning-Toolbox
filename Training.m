@@ -1,4 +1,4 @@
-% Download and Load the Dataset
+% Download and Load the CIFAR-10 Dataset
 
 cifar10Data = tempdir;
 
